@@ -1,2 +1,3 @@
 first git project 
-i have made a change 
+
+I have made a change 
